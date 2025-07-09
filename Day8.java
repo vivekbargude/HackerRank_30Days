@@ -1,4 +1,4 @@
-package HackerRank;
+
 
 //Complete this code or write your own from scratch
 import java.util.*;
